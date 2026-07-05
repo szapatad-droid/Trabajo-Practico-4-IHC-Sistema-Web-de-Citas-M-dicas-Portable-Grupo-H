@@ -78,7 +78,7 @@ http://localhost:8000
 
 ---
 
-## 🗄️ Base de datos
+##  Base de datos
 
 El sistema utiliza una base de datos SQLite llamada:
 
