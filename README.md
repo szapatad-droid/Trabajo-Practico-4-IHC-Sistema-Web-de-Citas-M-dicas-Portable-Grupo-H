@@ -1,6 +1,5 @@
-# Descripción
-
 ## Sistema Médico Portable:
+# Descripción
 Sistema web desarrollado en **PHP** con base de datos **SQLite** para la gestión de citas médicas. El proyecto funciona de manera portable, permitiendo ejecutarlo localmente sin necesidad de instalar un servidor web externo como XAMPP o WAMP.
 
 ## Características
